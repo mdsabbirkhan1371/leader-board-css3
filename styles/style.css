@@ -1,3 +1,49 @@
+/*----------
+ header style
+ ----------*/
+header{
+    width: 100%;
+    background-color: #562EFF;
+    height: 94px ;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+}
+.nav-iteam{
+    width: 870px;
+    
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    text-decoration: none;
+    padding:10px 20px ;
+    
+}
+.left-iteam{
+    display: flex;
+    align-items: center;
+    
+}
+.right-side{
+    display: flex;
+    align-items: center;
+}
+.left-iteam img{
+    width:40.42px;
+    height: 
+    51px;
+        
+}
+.right-side img{
+    width: 51px;
+    height: 51px;
+    margin-left: 36px;
+}
+
 /* font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 /* common-styles or utilities */
