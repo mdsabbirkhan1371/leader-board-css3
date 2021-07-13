@@ -21,16 +21,24 @@ nav{
 a{
     text-decoration: none;
     padding:10px 20px ;
+    color: lightgray;
     
+    
+}
+.left-iteam a{
+    font-weight: 500;
+    font-size: 24px;
 }
 .left-iteam{
     display: flex;
     align-items: center;
     
+    
 }
 .right-side{
     display: flex;
     align-items: center;
+    
 }
 .left-iteam img{
     width:40.42px;
